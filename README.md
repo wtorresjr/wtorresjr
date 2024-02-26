@@ -1,10 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtorresjr&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Web</h1>
-<p><img src="https://skillicons.dev/icons?i=js,python,html,css"/></p>
-<h3>Languages</h1>
-<p><img src="https://skillicons.dev/icons?i=js,html,css"/></p>
-<p><img src="https://skillicons.dev/icons?i=js,html,css"/></p>
+<h3>Tech</h3>
+<img src="https://skillicons.dev/icons?i=js,python,react,redux,flask,html,css,nodejs,expressjs,postgres,git,github,docker,sqlite"/>
+
 
 
 <!--
