@@ -1,7 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtorresjr&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Tech</h3>
-<img src="https://skillicons.dev/icons?i=js,python,react,redux,flask,html,css,nodejs,expressjs,postgres,git,github,docker,sqlite"/>
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=js,python,react,redux,flask,html,css,nodejs,expressjs"/>
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,docker,sqlite"/>
 
 
 
