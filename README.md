@@ -8,7 +8,7 @@ Hi I'm Will Torres,
 <h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=js,python,react,redux,flask,html,css,nodejs,expressjs"/>
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=postgres,git,github,docker,sqlite,vscode,postman,sequelize,vite"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,sequelize,git,github,docker,vscode,postman,vite"/>
 <h3>Currently Tinkering With...</h3>
 <img src="https://skillicons.dev/icons?i=graphql,typescript,mongodb,aws"/>
 
