@@ -1,5 +1,7 @@
 Hi I'm Will Torres, 
 
+A full-stack software engineer, I have about 20 years of experience in the tech world. I have served as a Team Leader or Supervisor for teams large and small and have experience leading projects of varying scales.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm Full Stack Software Engineer. I'm trying to come up with the next big thing in ABA (Applied Behavior Analysis). Along with being a software developer I'm also a behavior therapist. The project I've been devoting the majority of my time to is called Right-Track ABA. It's a client performance tracker for behaviors and skill acquisition tracker. I'm drawing on my experience as a behavior therapist to create a suite of tools to better serve the ABA community. If you're in the health care industry I would love to demo the app for you and get feedback.
 
   
