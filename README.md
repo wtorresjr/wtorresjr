@@ -20,7 +20,7 @@ Ten years in the ABA field taught me exactly where providers hit friction every 
 
 Before and alongside my clinical work, I spent 15 years across graphic design, web administration, and technical support — and led teams the whole way up.
 
-- **Leadership** — Progressed to **Tech Support Team Lead** (18 technicians) and **Senior Web Administrator** (team of 3).
+- **Leadership** — Progressed to **Tech Support Team Lead** (16 technicians) and **Senior Web Administrator** (team of 3).
 - **Business Solutions** — I own digital strategy, administer complex data-collection systems, and build internal business tools tailored to the realities of behavioral healthcare.
 - **Automation & Integration** — I live in workflow optimization: from **UI.Vision IDE** and **Tampermonkey** for data workflows to advanced integrations like traversing **React Fiber** trees to extract session data from platforms such as **Raven Health**.
 
