@@ -2,7 +2,7 @@
 
 ### Full-Stack Engineer | IT & Creative Leader | Behavioral Health Professional
 
-I build at the intersection of **software engineering** and **clinical care**. With **15 years in IT** and a **decade of hands-on clinical experience** as a Registered Behavior Technician (RBT), my mission is to craft powerful, intuitive tools that act as a force multiplier for the people delivering life-enhancing services to individuals on the autism spectrum — and to anyone who benefits from support services.
+I build at the intersection of **software engineering** and **clinical care**. With **more than a decade in IT** and a **nearly a decade of hands-on clinical experience** as a Registered Behavior Technician (RBT), my mission is to craft powerful, intuitive tools that act as a force multiplier for the people delivering life-enhancing services to individuals on the autism spectrum — and to anyone who benefits from support services.
 
 Most developers in this space have never sat in the room. I have. That perspective shapes everything I build.
 
@@ -18,7 +18,7 @@ Ten years in the ABA field taught me exactly where providers hit friction every 
 
 ## 💻 The Technical Foundation
 
-Before and alongside my clinical work, I spent 15 years across graphic design, web administration, and technical support — and led teams the whole way up.
+Before and alongside my clinical work, I spent 13 years across graphic design, web administration, and technical support — and led teams the whole way up.
 
 - **Leadership** — Progressed to **Tech Support Team Lead** (16 technicians) and **Senior Web Administrator** (team of 3).
 - **Business Solutions** — I own digital strategy, administer complex data-collection systems, and build internal business tools tailored to the realities of behavioral healthcare.
