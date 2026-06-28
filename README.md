@@ -1,8 +1,27 @@
 Hi I'm Will Torres, 
 
-A full-stack software engineer, I have about 20 years of experience in the tech world. I have served as a Team Leader or Supervisor for teams large and small and have experience leading projects of varying scales.
+Hi, I'm Will Torres 👋
+Full-Stack Software Engineer | IT Leader | Behavioral Health Professional
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm trying to come up with the next big thing in ABA (Applied Behavior Analysis). Along with being a software developer I'm also a behavior therapist. The project I've been devoting the majority of my time to is called Right-Track ABA. It's a client performance tracker for behaviors and skill acquisition tracker. I'm drawing on my experience as a behavior therapist to create a suite of tools to better serve the ABA community. If you're in the health care industry I would love to demo the app for you and get feedback.
+I sit at the unique intersection of software engineering and clinical care. With 15 years of experience in IT and a decade of hands-on clinical experience as a Registered Behavior Technician (RBT), my ultimate goal is to craft powerful, intuitive tools that serve as a force multiplier for providing life-enhancing services to individuals on the autism spectrum and others who benefit from support services.
+
+🧠 The Clinical Perspective
+Having spent 10 years in the ABA field, I understand the friction points providers face daily. My clinical foundation includes:
+
+Direct Client Care: Extensive experience in skill acquisition and the reduction of maladaptive behaviors.
+
+Specialized Support: MCPPP trained, with deep experience safely supporting learners who exhibit severe self-injurious behaviors (SIB) and aggression.
+
+Clinical Leadership: Currently serving in an ABA agency leadership role at Lantern Learning, where I provide data collection training and ensure our tech stack serves our clinical goals.
+
+💻 The Technical Foundation
+Before and alongside my clinical work, I built a 15-year career in tech, spanning graphic design, web administration, and technical support.
+
+Leadership: Progressed to Tech Support Team Lead (managing a team of 18 technicians) and Senior Web Administrator (leading a team of 3).
+
+Business Solutions: I manage digital strategy, administer complex data collection systems, and actively build business tools tailored for the healthcare industry.
+
+Automation & Integration: I heavily focus on web automation and workflow optimization—from utilizing UI.Vision IDE and Tampermonkey for data workflows to engineering advanced system integrations, such as traversing React Fiber trees to extract session data from platforms like Raven Health.
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtorresjr&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
