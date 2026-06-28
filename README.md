@@ -92,7 +92,4 @@ Clinicians shouldn't fight their software to do good work. I design tools that d
 
 I'm always interested in conversations where technology meets care — automation, behavioral-health tooling, accessible data systems, or anything that lightens the load for the people doing this work.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/<your-linkedin>/) <!-- update this link -->
-- 📫 Reach me at **<your-email>** <!-- update this -->
-
 > *"Building tools so the people doing the hard work can focus on what matters most — the people they serve."*
